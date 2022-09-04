@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jobcn
+- 👋 Hi, I’m @jo
 - 👀 I’m interested in blockchain
 - 🌱 I’m currently learning python and solidity
 - 💞️ I’m looking to collaborate on arbitrage, defi or other Defi projects
